@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
-
+31/10/2020
 ### Project Title
-Replace the Project Title
+explore US data related to bike share systems
 
 ### Description
-Describe what your project is about and what it does
+In this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+
 
 ### Files used
-Include the files used
+in this project we use chicgo, washington and newyork data  
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
