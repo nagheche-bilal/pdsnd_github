@@ -8,7 +8,7 @@ In this project, you will use data provided by Motivate, a bike share system pro
 
 
 ### Files used
-in this project we use chicgo, washington and newyork data  
+in this project we use chicago, washington and newyork data  
 
 ### Credits
 https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
