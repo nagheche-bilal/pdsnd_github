@@ -198,7 +198,7 @@ def user_stats(df,city):
 def fiv_row(df):
     
     st = 0
-    raw = input("\nWould you like to see first 5 rows of raw data: 'yes' or 'no'?\n").lower()
+    raw = input("\nWould you like to see first 5 rows of raw data, please type: 'yes' or 'no'?\n").lower()
     
     while True: 
         if raw == 'no':
