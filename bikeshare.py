@@ -46,7 +46,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
     
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-    city = confirm_inp('specify a city to analyze: chicago, new york city, washington', 1)
+    city = confirm_inp('specify a city to analyze: chicago city, new york city, washington dc', 1)
     
     # TO DO: get user input for month (all, january, february, ... , june)
     month = confirm_inp('specify the month to analyze: all, january, february, ... , june', 2)
@@ -198,7 +198,7 @@ def user_stats(df,city):
 def fiv_row(df):
     
     st = 0
-    raw = input("\nWould you like to see first 5 rows of raw data: 'yes' or 'no'?\n").lower()
+    raw = input("\nWould you like to see first 5 rows of raw data, please type: 'yes' or 'no'?\n").lower()
     
     while True: 
         if raw == 'no':
